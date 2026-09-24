@@ -1,6 +1,6 @@
 # CG100-Games
 
-Standalone MicroPython programs for the Casio fx-CG100.
+MicroPython programs for the Casio fx-CG100.
 
 ## Files in this repository
 
