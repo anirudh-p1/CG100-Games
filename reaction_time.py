@@ -1,7 +1,7 @@
 """Reaction time game for Casio fx-CG100 MicroPython."""
 
 import random
-import time
+import utime as time
 
 
 def now_ms():
