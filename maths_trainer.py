@@ -2,7 +2,7 @@
 
 import math
 import random
-import time
+import utime as time
 
 
 HIGH_SCORE = 0
